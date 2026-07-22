@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Igor_AFK_bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "pandoroo.aternos.me:51657",
