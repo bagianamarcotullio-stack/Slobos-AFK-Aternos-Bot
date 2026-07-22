@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK_Bot",
   "bot-account": {
     "username": "Igor_AFK_bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "pandoroo.aternos.me:51657",
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 7,
+    "y": 70,
+    "z": 10
   },
   "utils": {
     "auto-auth": {
