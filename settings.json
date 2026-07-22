@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pandoroo.aternos.me",
+    "ip": "pandoroo.aternos.me:51657",
     "port": 51657,
     "version": "26.2",
     "try-creative": false
